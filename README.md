@@ -4,6 +4,10 @@
 
 This is the source code for building [docs.scp-079.org](https://docs.scp-079.org).
 
+## Credit
+
+This is a fork (forked on 1/26/2021 PST) of the repo from scp-079 (https://github.com/scp-079) project.
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
